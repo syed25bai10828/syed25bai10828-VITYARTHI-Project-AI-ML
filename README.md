@@ -1,7 +1,7 @@
 # syed25bai10828-VITYARTHI-Project-AI-ML
 Industrial Protocol Logic Firewall (IPLF)
 Deterministic Cybersecurity for Industrial Control Systems
-This project implements a Rule-Based (Non-ML) AI Detector designed to protect industrial machinery (like valves, motors, or turbines) from malicious command injections and automated bot attacks. Instead of guessing with probability, it uses a Finite State Machine (FSM) to ensure every command is physically and logically valid.
+This project implements a Rule-Based  AI Detector designed to protect industrial machinery (like valves, motors, or turbines) from malicious command injections and automated bot attacks. Instead of guessing with probability, it uses a Finite State Machine (FSM) to ensure every command is physically and logically valid.
 ________________________________________
 Overview
 In industrial environments, safety is paramount. A standard firewall might allow a command because the "password" is correct, but it won't know that opening a valve while the system is OFF could cause a physical explosion.
